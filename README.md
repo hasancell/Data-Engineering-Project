@@ -1,6 +1,6 @@
-# Data-Engineering-Project
+## Data-Engineering-Project
 
-# This project demonstrates foundational data engineering and analytics skills, focusing on building ETL pipelines, exploring data trends, and visualizing insights. The analysis is performed on anonymized, publicly available datasets representing social media posts, trends, and product information.
+### This project demonstrates foundational data engineering and analytics skills, focusing on building ETL pipelines, exploring data trends, and visualizing insights. The analysis is performed on anonymized, publicly available datasets representing social media posts, trends, and product information.
 
 Features:
 
